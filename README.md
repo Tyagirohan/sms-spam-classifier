@@ -8,7 +8,7 @@ The dataset used for training and testing the model is the SMS Spam Collection d
 The model is a Naive Bayes classifier which is a simple and effective probabilistic algorithm for classification. The scikit-learn implementation of Naive Bayes is used in this project, specifically the MultinomialNB class.
 
 # Requirements
-Python 3.6 or higher
-scikit-learn
-pandas
-numpy
+- Python 3.6 or higher
+- scikit-learn
+- pandas
+- numpy
